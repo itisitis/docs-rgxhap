@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://archive-2kilyb.biggamingwin.xyz/sitemap.xml
